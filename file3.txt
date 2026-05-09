@@ -1,3 +1,4 @@
 name = "Person1"
 // This is new info from person2
 # Change directly on main
+# Main commit while rebase branch existed
